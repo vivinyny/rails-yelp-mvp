@@ -1,5 +1,9 @@
 class RestaurantsController < ApplicationController
-  def method_name
-
+  def index
+    @restaurants
   end
+
+#def show
+#end
+
 end
